@@ -1,1 +1,1 @@
-# cypress-testing-playground
+# playwright-testing-playground
